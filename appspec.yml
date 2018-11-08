@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: 
+  - source: /home/index.html
     destination: /mnt/test
